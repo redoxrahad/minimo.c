@@ -1,0 +1,134 @@
+*{margin: 0;
+    padding: 0;
+
+}
+header{
+    width: 90%;
+    background-color: whitesmoke;
+    margin: auto;
+    overflow: hidden;
+    padding: 50px;
+
+}
+.logo{
+    width: 20%;
+    float: left;
+
+}
+nav{
+    width: 55%;
+    float: right;
+    overflow: hidden;
+
+}
+nav ul{
+    list-style: none;
+    float: right;
+    overflow: hidden;
+
+}
+nav ul li{
+
+    float: left;
+    margin-left: 100px;
+    color: #626262;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.banner{
+    width: 90%;
+    margin: auto;
+    
+
+}
+.banner img{
+    width: 100%;
+}
+.photodiary{
+
+width: 80%;
+
+margin: auto;
+
+padding: 50px 0;
+}
+.photodiary h4{
+    
+color: #b4ad9e;
+    
+text-transform: uppercase;
+    
+font-size: 14px;
+}
+.photodiary h1{
+    
+color: #626262;
+    
+text-transform: capitalize;
+    
+font-size: 30px;
+    
+margin: 15px 0;
+}
+.photodiary p{
+    
+color: #626262;
+    
+font-size: 16px;
+    
+margin-bottom: 30px;
+}
+.gallery{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+
+}
+.image3{
+    width: 45%;
+    float: left;
+
+}
+.image4{
+    width: 45%;
+    float: right;
+
+}
+.lifestyle{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    padding: 30px;
+
+}
+.lifestyle1{
+    color: #b4ad9e;
+    font-size: 14px;
+    float: left;
+    text-transform: uppercase;
+    overflow: hidden;
+    
+}
+.lifestyle2{
+    color: #b4ad9e;
+    font-size: 14px;
+    float: right;
+    text-transform: uppercase;
+    margin-right: 190px;
+    overflow: hidden;
+    
+}
+.lifestyle1 h1{
+    color: #626262;
+    float: left;
+    text-transform: capitalize;
+    padding: 15px 0;
+    
+}
+.lifestyle2 h1{
+    color: #626262;
+    float: right;
+    text-transform: capitalize;
+    padding: 15px 0;
+    
+}
